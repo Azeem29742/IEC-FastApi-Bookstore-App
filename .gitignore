@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local project context and user preferences.
+PROJECT_MEMORY.md
